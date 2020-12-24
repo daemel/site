@@ -19,7 +19,7 @@ title: "Microsoft Health Architectures"
 description: "Reference Architectures and, where appropriate implementations"
 baseurl: "/site"
 url: "https://microsoft.github.io" 
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
 
 logo: /assets/images/logo.png
 color_scheme: "light"
