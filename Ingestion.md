@@ -1,7 +1,6 @@
 ---
 title: Ingestion
-parent: Ecosystem
-grand_parent: FHIR
+parent: Architectures
 nav_order: 1
 ---
 

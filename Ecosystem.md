@@ -7,4 +7,6 @@ nav_order: 1
 
 # Ecosystem
 
-big picture 
+Azure API
+DICOM
+
