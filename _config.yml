@@ -14,12 +14,10 @@
 
 # Config notes:
 # change site to health-architectures when moving
-
 title: "Microsoft Health Architectures"
 description: "Reference Architectures and, where appropriate implementations"
 baseurl: "/site"
 url: "https://microsoft.github.io" 
-# theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
 logo: /assets/images/logo.png
