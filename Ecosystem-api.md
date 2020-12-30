@@ -1,6 +1,7 @@
 ---
 title: API for FHIR
 parent: Ecosystem
+grand_parent: FHIR
 nav_order: 2
 ---
 
