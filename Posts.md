@@ -8,6 +8,4 @@ nav_order: 2
 
 ![FHIR](/site/assets/images/icon-fhir-64.png)
 
-Implementations 
-Data Ingest 
-Research and Analytics 
+Real world examples and ideas from Microsoft Health members 
