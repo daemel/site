@@ -20,7 +20,7 @@ As you look through this repository, which will be updated over time, you will s
 
 ### Support or Contact
 
-We invite you to ask questions, make suggestions and share use cases which we might consider for future reference architectures or implementations, email us @ <a href="mailto:HealthArchitectures@microsoft.com">HealthArchitectures</a>
+We invite you to ask questions, make suggestions and share use cases which we might consider for future reference architectures or implementations, **email us @ <a href="mailto:HealthArchitectures@microsoft.com">HealthArchitectures</a>**
 
 
-For more information on health solutions go to [Azure for Health Cloud](https://azure.microsoft.com/en-us/industries/healthcare/). For more information regarding the Azure Fast Healthcare Interoperability Resource (FHIR) service for health data solutions go to [Azure API for FHIR](https://azure.microsoft.com/en-us/services/azure-api-for-fhir/)
+For more information on health solutions go to **[Azure for Health Cloud](https://azure.microsoft.com/en-us/industries/healthcare/)**. For more information regarding the Azure Fast Healthcare Interoperability Resource (FHIR) service for health data solutions go to **[Azure API for FHIR](https://azure.microsoft.com/en-us/services/azure-api-for-fhir/)**
