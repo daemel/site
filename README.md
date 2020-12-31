@@ -2,30 +2,28 @@
 
 
 Health Architectures is a collection of reference architectures and, where appropriate, implementations. They illustrate end-to-end best practices for using the Azure API for FHIR and related technologies.  
+  
+
 
 [View Repo on GitHub](https://github.com/microsoft/health-architectures){: .btn }
 
-### Markdown
+### Overview 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are the Microsoft Health Cloud & Data Architectural Engineering team, which is part of Microsoft Health. We work side by side with the product teams responsible for technologies such as the Azure API for FHIR, IoMT FHIR Connector for Azure, DICOM for FHIR, Microsoft Cloud for Healthcare and more. 
 
-```markdown
-Syntax highlighted code block
+![Overview](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Through collaboration with the product teams, partners and customers we bring you these reference architectures.
 
-1. Numbered
-2. List
+As we work with customers, partners, and co-workers, we frequently come across requests for references architectures & code for end to end implementations. For example, how can I pick up HL7v2 messages generated in my environment from my EMR (Electronic Medical Record), Lab System, Scheduling System, etc. then ingest them into FHIR near real-time? These questions and scenarios then become the basis for our reference architectures. Of course, we remove customer specific data, then generalize the design for greater suitability and impact.
 
-**Bold** and _Italic_ and `Code` text
+As you look through this repository, which will be updated over time, you will see some typical 'hello world' examples as well as more complex solutions. We conduct peer reviews to bring you the best practices for using the Microsoft Health technologies.
 
-[Link](url) and ![Image](src)
-```
+We invite you to ask questions, make suggestions and share use cases which we might consider for future reference architectures or implementations.
+
+For more information on health solutions go to Azure for Health Cloud. For more information regarding the Azure Fast Healthcare Interoperability Resource (FHIR) service for health data solutions go to Azure API for FHIR.
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
