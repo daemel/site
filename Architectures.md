@@ -6,8 +6,6 @@ nav_order: 2
 
 # Reference Architectures
 
-![FHIR](/site/assets/images/icon-fhir-64.png)
+![Microsoft](/assets/images/microsoft-logo-64.png) + ![FHIR](/assets/images/icon-fhir-64.png)
 
-Implementations 
-Data Ingest 
-Research and Analytics 
+Working Reference Architectures combining Microsoft capabilities and FHIR Resources 
