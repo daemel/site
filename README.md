@@ -11,7 +11,7 @@ Health Architectures is a collection of reference architectures and, where appro
 
 We are the Microsoft Health Cloud & Data Architectural Engineering team, which is part of Microsoft Health. We work side by side with the product teams responsible for technologies such as the Azure API for FHIR, IoMT FHIR Connector for Azure, DICOM for FHIR, Microsoft Cloud for Healthcare and more. 
 
-![Overview](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+![Overview](/assets/images/Architecture-Customer-Ready.png)
 
 
 Through collaboration with the product teams, partners and customers we bring you these reference architectures.
