@@ -11,7 +11,7 @@ This end-to-end, industry-specific cloud solution includes released and new heal
 <a href="https://raw.githubusercontent.com/daemel/site/master/assets/images/SyncAgent-Story-Board.png" target="_blank"> <img src="https://raw.githubusercontent.com/daemel/site/master/assets/images/SyncAgent-Story-Board.png" alt="image"/></a>
 
 
-<a href="Download Dynamics Integration Well Defined Architecture" target="_blank"> <img src="https://raw.githubusercontent.com/daemel/site/master/assets/pdfs/SyncAgent-Well-Defined-Architecture.pdf" alt="pdf"/></a>
+<a href="https://raw.githubusercontent.com/daemel/site/master/assets/pdfs/SyncAgent-Well-Defined-Architecture.pdf"  target="_blank">Download Dynamics Integration Well Defined Architecture</a>
 
 ### Support or Contact
 
