@@ -1,15 +1,15 @@
 ---
-title: Proxy
+title: De-Identification
 parent: Tools
 grand_parent: FHIR
 nav_order: 1
 ---
 
-# Proxy Gateway
+# De-Identification 
 
 ![Microsoft and FHIR](/assets/images/msftfhir.png)
 
-Proxy 
+De Identification 
 
 ### Support or Contact
 

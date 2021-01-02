@@ -7,6 +7,8 @@ nav_order: 1
 
 # Tools
 
+![Microsoft and FHIR](/assets/images/msftfhir.png)
+
 Proxy 
 De-Identification
 Validator

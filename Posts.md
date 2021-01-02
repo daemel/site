@@ -6,6 +6,6 @@ nav_order: 2
 
 # Blog Posts
 
-![FHIR](/site/assets/images/icon-fhir-64.png)
+![Microsoft and FHIR](/assets/images/msftfhir.png)
 
 Real world examples and ideas from Microsoft Health members 

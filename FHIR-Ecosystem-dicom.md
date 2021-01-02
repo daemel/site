@@ -7,4 +7,7 @@ nav_order: 2
 
 # DICOM for FHIR 
 
-this is the ingestion workflow subsection 
+![Microsoft and FHIR](/assets/images/msftfhir.png)
+
+TBD
+
