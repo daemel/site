@@ -9,6 +9,4 @@ nav_order: 1
 
 ![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
-Proxy 
-De-Identification
-Validator
+Real world tools and examples from Microsoft Health Team members
