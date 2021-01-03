@@ -7,7 +7,7 @@ nav_order: 2
 
 # Azure API for FHIR 
 
-![Microsoft and FHIR](/assets/images/msftfhir.png)
+![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
 Azure API for FHIR brings together health data from disparate systems using industry standard HL7 FHIR. This robust, extensible data model standardizes semantics and data exchange so all systems using FHIR can work together.  Relate points of data from across disparate systems to create richer datasets. Use these datasets to enable advanced analytics scenarios that promote better health outcomes. Connect people and health data in intelligent new ways across your infrastructure, productivity applications, business applications, and analytics.
 

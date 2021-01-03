@@ -7,7 +7,7 @@ nav_order: 2
 
 # DICOM for FHIR 
 
-![Microsoft and FHIR](/assets/images/msftfhir.png)
+![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
 TBD
 

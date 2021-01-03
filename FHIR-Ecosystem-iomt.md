@@ -7,7 +7,7 @@ nav_order: 2
 
 # IoMT Connector for FHIR for FHIR 
 
-![Microsoft and FHIR](/assets/images/msftfhir.png)
+![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
 Azure IoT Connector for Fast Healthcare Interoperability Resources (FHIR) is an optional feature of Azure API for FHIR that provides the capability to ingest data from Internet of Medical Things (IoMT) devices. 
 
