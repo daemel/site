@@ -33,5 +33,6 @@ The Healthcare Next Horizon-3 Team believes that this architecture reflects all 
 ### References 
 - Withings API: [Documentation](https://developer.withings.com/) 
 - Azure FHIR: [Documentation](https://azure.microsoft.com/en-us/services/azure-api-for-fhir/)  
+- Withings IoMT Repo on GitHub: [Code](https://github.com/microsoft/health-architectures/tree/master/Internet-Of-Things-IoT/Withings-To-IoT)
 
 #### Questions, comments or needing help, please feel free to email us at: HealthArchitectures@microsoft.com  
