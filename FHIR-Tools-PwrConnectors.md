@@ -7,7 +7,7 @@ nav_order: 1
 
 # Power Platform App and Automation Connector Setup 
 
-![Microsoft and FHIR](/assets/images/msftfhir.png)
+![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
 Power Platform App and Automation Connector Setup
 

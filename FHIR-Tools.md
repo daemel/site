@@ -7,7 +7,7 @@ nav_order: 1
 
 # Tools
 
-![Microsoft and FHIR](/assets/images/msftfhir.png)
+![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
 Proxy 
 De-Identification

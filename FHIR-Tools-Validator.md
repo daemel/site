@@ -7,7 +7,7 @@ nav_order: 1
 
 # FHIR Validator 
 
-![Microsoft and FHIR](/assets/images/msftfhir.png)
+![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
 Validation of resources against any profile IGs provided is also supported. It is based on the [FHIR Validator from HL7](http://hl7.org/fhir/validator/)
 

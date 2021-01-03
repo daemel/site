@@ -7,7 +7,7 @@ nav_order: 1
 
 # Export Quickstart 
 
-![Microsoft and FHIR](/assets/images/msftfhir.png)
+![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
 ### Introduction 
 The FHIR Export Quickstart is to help setup exporting FHIR data on a regular basis. Below is a simple architecture and steps.

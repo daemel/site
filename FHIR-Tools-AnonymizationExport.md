@@ -7,7 +7,7 @@ nav_order: 1
 
 # Export with Anonymization 
 
-![Microsoft and FHIR](/assets/images/msftfhir.png)
+![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
 ### Introduction
 The FHIR Export with Anonymization is a template for creating an automated pipeline to process the bulk export for FHIR using Azure tools. The goal of the template is to enable quick and continuous creation of research datasets while applying HIPAA safe harbor rules.
