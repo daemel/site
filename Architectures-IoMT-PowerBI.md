@@ -7,7 +7,6 @@ nav_order: 2
 
 # IoMT Connector for Azure and Microsoft Power BI
 
-
 Microsoft Power BI is a powerful business intelligence/ analytics tool which when combined with FHIR & IoT can change the way providers care for patients.
 
 The conceptual design below shows the basic components of using Microsoft cloud services to enable Power BI on top of IoMT and FHIR data. We can even embed Power BI Dashboards inside the Microsoft Teams client to further enhance care team coordination. For more information on embedding Power BI in Microsoft Team visit [here](https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-embed-report-microsoft-teams).
