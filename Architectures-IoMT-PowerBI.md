@@ -1,7 +1,7 @@
 ---
 title: IoMT with PowerBI
-parent: Ecosystem
-grand_parent: FHIR
+parent: IoMT
+grand_parent: Architectures
 nav_order: 2
 ---
 
