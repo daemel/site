@@ -1,6 +1,6 @@
 ---
 title: Ingestion with FHIR
-parent: FHIR
+parent: Api for FHIR
 grand_parent: Architectures
 nav_order: 2
 ---
