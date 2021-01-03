@@ -9,3 +9,4 @@ nav_order: 2
 ![Microsoft and FHIR](/assets/images/msftfhir.png)
 
 Working Reference Architectures combining Microsoft capabilities and FHIR Resources 
+
