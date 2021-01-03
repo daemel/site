@@ -9,6 +9,7 @@ nav_order: 1
 
 ![Microsoft and FHIR](/assets/images/msft-fhir.png)
 
+### Introduction
 The [FHIR Converter](https://github.com/microsoft/FHIR-Converter) is an open source project that enables healthcare organizations to convert legacy data (currently HL7 v2 messages) into FHIR bundles. Converting legacy data to FHIR expands the use cases for health data and enables interoperability.
 
 The GitHub repo provides reference architecture and sample deployments for the ingest and conversion to FHIR of HL7 messages and the de-identification of FHIR resources. These samples demonstrate incorporating Microsoft's FHIR Converter into your enterprise HL7 messaging/FHIR infrastructure to enable end-to-end workflows for a variety of use cases. The examples include:
