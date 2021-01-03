@@ -1,6 +1,6 @@
 ---
 title: IoMT with Teams
-parent: IoMT
+parent: IoMT for FHIR
 grand_parent: Architectures
 nav_order: 2
 ---

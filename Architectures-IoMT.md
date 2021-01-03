@@ -1,5 +1,5 @@
 ---
-title: IoMT
+title: IoMT for FHIR
 parent: Architectures
 has_children: true
 nav_order: 1
