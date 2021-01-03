@@ -1,7 +1,8 @@
 ---
-title: Ingestion
-parent: Architectures
-nav_order: 1
+title: Ingestion with FHIR
+parent: FHIR
+grand_parent: Architectures
+nav_order: 2
 ---
 
 # Ingestion 
