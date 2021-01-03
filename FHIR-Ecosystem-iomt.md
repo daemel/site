@@ -20,3 +20,4 @@ Azure IoT Connector for FHIR can accept any JSON-based messages sent out by an I
 
 [Azure API for FHIR](https://azure.microsoft.com/en-us/services/azure-api-for-fhir/)
 
+[Reference Architectures](/Architectures-IoMT.html)
