@@ -7,6 +7,8 @@ nav_order: 1
 
 # Power Platform Connectors for Azure API for FHIR
 
+[View Repo on GitHub](https://github.com/microsoft/health-architectures/master/Low-Code){: .btn }
+
 A connector is a proxy or a wrapper around an API that allows the underlying service to talk to Microsoft Power Platform.  Connectors provide a way for users to leverage a set of pre-built actions and triggers to build applications and workflows.
 
 Two Connectors are being deployed as part of Microsoft Cloud for Healthcare, each works with Azure API for FHIR and OSS FHIR Server.  The connectors contain a subset of FHIR Resources and are bi-directional supporting both reads and writes to the FHIR Service.  Currently these connectors are certified for Power Apps and Power Automate, Logic Apps will be evaluated should there be interest.  
