@@ -23,11 +23,11 @@ For some solutions, Azure IoT Central can be used in place of Azure IoT Hub. We 
 
 Azure IoT Edge can be used in conjunction with IoT Hub to create an on-premise end point for devices and/or in-device connectivity.
 
-![IoMT Connector and Power BI Reference Architecture](/assets/images/IoMT2PBIwIoTEdge.jpg)
+![IoMT Connector and Power BI Reference Architecture](/assets/images/IoMT2PBIwithIoTEdge.jpg)
 
 
 ### More Information
-[IoMT FHIR Connector for Azure sandbox](https://github.com/microsoft/iomt-fhir/blob/master/docs/Sandbox.md)
-[Azure API for FHIR](https://docs.microsoft.com/en-us/azure/healthcare-apis/)
-[Blog: Accelerate IoMT on FHIR with new Microsoft OSS Connector](https://azure.microsoft.com/en-us/blog/accelerate-iomt-on-fhir-with-new-microsoft-oss-connector/)
+- [IoMT FHIR Connector for Azure sandbox](https://github.com/microsoft/iomt-fhir/blob/master/docs/Sandbox.md)
+- [Azure API for FHIR](https://docs.microsoft.com/en-us/azure/healthcare-apis/)
+- [Blog: Accelerate IoMT on FHIR with new Microsoft OSS Connector](https://azure.microsoft.com/en-us/blog/accelerate-iomt-on-fhir-with-new-microsoft-oss-connector/)
 
